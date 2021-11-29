@@ -1,6 +1,5 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-//import userData from '../../data/user.json';
 import styles from './Profile.module.css';
 
 const Profile = ({
